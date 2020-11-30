@@ -1,0 +1,5 @@
+rootProject.name = 'Clava'
+include 'clava-admin-api'
+include 'clava-common'
+include 'clava-customer-api'
+

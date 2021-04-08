@@ -22,7 +22,7 @@
 
 ----
 ## notion link
-[Notion Link](https://www.notion.so/howift/d698c6945a7344749436e273a9739e0a)
+[Notion Link](https://www.notion.so/DB-API-b234ae5557bd4317827b0a4d3062b8fd)
 
 ----
 ## 스크린샷

@@ -21,11 +21,11 @@
 
 ----
 ## notion link
-[Notion Link](#https://www.notion.so/howift/d698c6945a7344749436e273a9739e0a)
+[Notion Link](https://www.notion.so/howift/d698c6945a7344749436e273a9739e0a)
 
 ----
 ## 스크린샷
-[스크린샷](#https://docs.google.com/presentation/d/e/2PACX-1vTvB8j0RqDHATjnHd98tXmV0sHn9sO9uxJBSnri8QTubvXUwjl6KO-HEHSeR2Q96g/pub?start=false&loop=false&delayms=3000)
+[스크린샷](https://docs.google.com/presentation/d/e/2PACX-1vTvB8j0RqDHATjnHd98tXmV0sHn9sO9uxJBSnri8QTubvXUwjl6KO-HEHSeR2Q96g/pub?start=false&loop=false&delayms=3000)
 
 ----
 ## 함께한 사람

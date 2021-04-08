@@ -6,18 +6,26 @@
 * Spring-Boot
 * MySQL
 * AWS RDS
-* AWS Instance
+* AWS Instance -> 무료기한 종료로 서버 내려간 상태.
 
 ----
 ## 목차
 * API
-    * 
+    * [DB스키마](#DB스키마)
+    * [Notion link](#notion-link)
 * [스크린샷](#스크린샷)
 * [함께한 사람](#함께한-사람)
 ----
+## DB스키마
+![image](https://user-images.githubusercontent.com/57937528/114003508-c0153b80-9898-11eb-92eb-a4c24f864985.png)
+
+----
+## notion link
+[Notion Link](#https://www.notion.so/howift/d698c6945a7344749436e273a9739e0a)
 
 ----
 ## 스크린샷
+[스크린샷](#https://docs.google.com/presentation/d/e/2PACX-1vTvB8j0RqDHATjnHd98tXmV0sHn9sO9uxJBSnri8QTubvXUwjl6KO-HEHSeR2Q96g/pub?start=false&loop=false&delayms=3000)
 
 ----
 ## 함께한 사람

@@ -7,7 +7,7 @@
 * MySQL
 * AWS RDS
 * AWS S3
-* AWS Instance -> 무료기한 종료로 서버 내려간 상태.
+* AWS EC2 -> 무료기한 종료로 서버 내려간 상태.
 
 ----
 ## 목차
